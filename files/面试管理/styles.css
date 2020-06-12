@@ -2603,7 +2603,7 @@
   width:110px;
   height:30px;
   display:flex;
-  color:#D9001B;
+  color:#02A7F0;
 }
 #u5068 .text {
   position:absolute;
@@ -2616,7 +2616,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u5069_img {
   border-width:0px;
